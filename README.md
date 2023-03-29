@@ -1,2 +1,5 @@
-# typescript-fundamentals
-Principais implementações do typescript
+# Fundamentos do typescript
+
+Para executar esse projeto dgite:
+
+ - git clone 
